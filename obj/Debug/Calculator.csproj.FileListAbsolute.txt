@@ -1,0 +1,9 @@
+C:\Users\kss34\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\kss34\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\kss34\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\kss34\source\repos\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\kss34\source\repos\Calculator\obj\Debug\Calculator.CalcForm.resources
+C:\Users\kss34\source\repos\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\kss34\source\repos\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\kss34\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\kss34\source\repos\Calculator\obj\Debug\Calculator.pdb
